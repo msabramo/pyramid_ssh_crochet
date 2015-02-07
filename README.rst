@@ -21,6 +21,12 @@ To use this, add some info to your config file:
     pyramid_ssh_crochet.port = 5022
     pyramid_ssh_crochet.username = admin
     pyramid_ssh_crochet.password = secret
+    
+
+See also
+==================================
+
+- https://github.com/msabramo/pyramid_ipython_kernel
 
 
 .. _Pyramid: http://www.trypyramid.com/
